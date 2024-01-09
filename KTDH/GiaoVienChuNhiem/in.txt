@@ -1,0 +1,53 @@
+8
+GV1
+Nguyen VAn TuaN
+6/2/1975
+Nam Dinh
+DTVT
+25000000
+CNTT1
+SV2
+Vu AnH MaNH
+13/10/2004
+Ha Noi
+DTVT1
+2.70
+SV3
+trAN Phuong TuaN
+5/9/2004
+Hai Duong
+ATTT3
+2.80
+GV4
+trAN duC HaI
+14/12/1973
+Ha Nam
+Co khi
+25000000
+CNTT2
+SV5
+Nguyen Ngoc TuaN
+13/11/2004
+Hai Duong
+CNTT1
+3.05
+SV6
+Luong duC LoNG
+6/1/2004
+Hai Duong
+CNTT2
+2.70
+GV7
+Nguyen Phuong TuaN
+25/4/1974
+Nam Dinh
+Co khi
+12000000
+DTVT1
+SV8
+Luong duC NAM
+3/2/2004
+Ha Noi
+CNTT1
+2.50
+CNTT1

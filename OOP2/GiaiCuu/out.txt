@@ -1,0 +1,24 @@
+POWER : 105
+BLOOD : 100
+ALIVE
+--------------------
+POWER : 103
+BLOOD : 85
+ALIVE
+--------------------
+POWER : 105
+BLOOD : 95
+ALIVE
+--------------------
+POWER : 107
+BLOOD : 105
+ALIVE
+--------------------
+POWER : 0
+BLOOD : 0
+DEAD
+--------------------
+POWER : 0
+BLOOD : 0
+DEAD
+--------------------

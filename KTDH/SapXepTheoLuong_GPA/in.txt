@@ -1,0 +1,31 @@
+5
+GV1
+pham duC LoNG
+4/3/1976
+Ha Nam
+CNTT
+18000000
+SV2
+Vu AnH LoNG
+3/11/2004
+Hai Duong
+DTVT1
+2.70
+SV3
+trAN AnH NAM
+27/11/2004
+Nam Dinh
+ATTT3
+3.05
+GV4
+Nguyen VAn MaNH
+12/4/1978
+Ha Noi
+Co khi
+25000000
+SV5
+Luong Phuong HaI
+3/4/2004
+Nam Dinh
+DTVT2
+2.50

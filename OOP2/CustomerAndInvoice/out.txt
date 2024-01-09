@@ -1,0 +1,20 @@
+Customer ID : 101
+Full Name : Peter Cech
+Amount : 4361.70 $
+--------------------
+Customer ID : 100
+Full Name : Wayne Rooney
+Amount : 4203.68 $
+--------------------
+Customer ID : 103
+Full Name : Ryan Giggs
+Amount : 3800.16 $
+--------------------
+Customer ID : 104
+Full Name : Thomas Tuchel
+Amount : 772.80 $
+--------------------
+Customer ID : 102
+Full Name : Andrew Tate
+Amount : 606.48 $
+--------------------

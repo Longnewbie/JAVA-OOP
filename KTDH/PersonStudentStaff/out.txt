@@ -1,0 +1,79 @@
+Student List :
+-----------------
+Full Name : Claude Anderson
+Address : Delaware
+Program : Business
+Year : 1
+Fee : 135000 $
+-----------------
+Full Name : Philip Smith
+Address : PennsylvaniaRhode Island
+Program : Health Professions
+Year : 4
+Fee : 131000 $
+-----------------
+Full Name : Benjamin Erickson
+Address : New Mexico
+Program : Engineering
+Year : 1
+Fee : 110000 $
+-----------------
+Full Name : Samuel Matthews
+Address : IllinoisIndiana
+Program : Health Professions
+Year : 1
+Fee : 109000 $
+-----------------
+Full Name : Rick Williams
+Address : Wisconsin
+Program : Visual and Performing Arts
+Year : 3
+Fee : 100000 $
+-----------------
+Staff List :
+-----------------
+Full Name : Aidan Simmons
+Address : IllinoisIndiana
+School : Stanford
+Pay : 198000 $
+-----------------
+Full Name : Charlie Burns
+Address : North Dakota
+School : Harvard
+Pay : 194000 $
+-----------------
+Full Name : Dan Flores
+Address : Maryland
+School : Harvard
+Pay : 192000 $
+-----------------
+Full Name : Dan Flores
+Address : North Carolina
+School : Harvard
+Pay : 187000 $
+-----------------
+Full Name : Liam Smith
+Address : New York
+School : Harvard
+Pay : 178000 $
+-----------------
+Full Name : Clark Green
+Address : Connecticut
+School : Harvard
+Pay : 156000 $
+-----------------
+Full Name : Conner Martin
+Address : Massachusetts
+School : Stanford
+Pay : 139000 $
+-----------------
+Full Name : Ramon Wheeler
+Address : Iowa
+School : Harvard
+Pay : 122000 $
+-----------------
+Full Name : Samuel Matthews
+Address : Georgia
+School : Harvard
+Pay : 104000 $
+-----------------

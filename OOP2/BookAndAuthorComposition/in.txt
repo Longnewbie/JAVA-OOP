@@ -1,0 +1,19 @@
+3
+Song
+800000
+5000
+Xuan Quynh
+xuanquynh@gmail.com
+M
+Ha Do
+400000
+6000
+Nguyen Nhat Anh
+nhatanh@gmail.com
+M
+To Kill a Mockingbird
+100000
+15000
+Harper Lee
+lee@gmail.com
+F

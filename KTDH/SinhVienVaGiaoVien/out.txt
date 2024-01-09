@@ -1,0 +1,11 @@
+DANH SACH GIAO VIEN :
+GV1 Nguyen Duc Tuan 04/06/1977 Thai Binh CNTT 12000000
+GV4 Nguyen Anh Hai 20/03/1974 Ha Nam KT 20000000
+GV7 Tran Phuong Long 06/02/1979 Ha Noi ATTT 20000000
+DANH SACH SINH VIEN :
+SV2 Luong Van Hai 01/06/2004 Thai Binh CNTT2 2.50
+SV3 Nguyen Anh Manh 14/02/2004 Thai Binh CNTT2 2.50
+SV5 Pham Anh Manh 08/05/2004 Ha Nam CNTT1 2.70
+SV6 Pham Phuong Manh 18/07/2004 Ha Noi CNTT2 2.50
+SV8 Nguyen Van Hai 25/08/2004 Nam Dinh CNTT2 2.70
+SV9 Luong Ngoc Hai 16/11/2004 Ha Noi CNTT1 3.20

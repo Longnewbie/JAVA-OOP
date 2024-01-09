@@ -1,0 +1,6 @@
+0001 Tran Phuong Hai 17/04/2004 Ha Noi DTVT1 2.50
+0006 Luong Ngoc Long 12/11/2004 Nam Dinh CNTT2 3.05
+0005 Tran Van Long 24/06/2004 Ha Noi CNTT1 2.80
+0003 Nguyen Anh Manh 11/03/2004 Ha Noi CNTT1 2.70
+0004 Pham Duc Tuan 21/05/2004 Ha Noi DTVT1 2.50
+0002 Tran Phuong Tuan 28/01/2004 Ha Nam DTVT1 2.50

@@ -1,0 +1,29 @@
+7
+Nguyen AnH MaNH
+27/8/2004Nam Dinh
+CNTT2
+2.70
+pham Phuong TuaN
+21/9/2004Nam Dinh
+CNTT1
+2.70
+Vu Ngoc NAM
+7/9/2004Nam Dinh
+CNTT2
+3.05
+Vu AnH LoNG
+17/12/2004Ha Noi
+CNTT1
+2.80
+Nguyen Phuong NAM
+23/6/2004Ha Nam
+HTTT3
+2.80
+Luong AnH NAM
+16/1/2004Thai Binh
+DTVT1
+2.80
+Nguyen Phuong HaI
+14/1/2004Nam Dinh
+DTVT1
+3.05

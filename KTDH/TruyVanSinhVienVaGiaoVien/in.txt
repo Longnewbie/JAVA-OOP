@@ -1,0 +1,47 @@
+7
+GV1
+trAN duC TuaN
+7/4/1974
+Thai Binh
+ATTT
+20000000
+CNTT1
+SV2
+trAN AnH MaNH
+27/10/2004
+Ha Nam
+DTVT1
+2.50
+SV3
+pham Phuong NAM
+8/8/2004
+Thai Binh
+DTVT2
+2.50
+GV4
+trAN AnH MaNH
+24/5/1972
+Ha Nam
+ATTT
+12000000
+DTVT2
+SV5
+trAN Phuong LoNG
+8/12/2004
+Ha Nam
+ATTT3
+2.50
+SV6
+Luong duC LoNG
+23/1/2004
+Ha Noi
+DTVT2
+3.20
+GV7
+Luong AnH TuaN
+18/10/1972
+Ha Nam
+Co khi
+25000000
+DTVT1
+Ha Noi

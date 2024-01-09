@@ -1,0 +1,45 @@
+Color : White
+Height : 168.00
+Radius : 16.00
+Volume : 135045.12
+-------------------
+Color : Blue
+Height : 194.00
+Radius : 14.00
+Volume : 119395.36
+-------------------
+Color : Red
+Height : 104.00
+Radius : 19.00
+Volume : 117888.16
+-------------------
+Color : Green
+Height : 191.00
+Radius : 13.00
+Volume : 101356.06
+-------------------
+Color : White
+Height : 156.00
+Radius : 13.00
+Volume : 82782.96
+-------------------
+Color : White
+Height : 131.00
+Radius : 14.00
+Volume : 80622.64
+-------------------
+Color : Green
+Height : 182.00
+Radius : 11.00
+Volume : 69149.08
+-------------------
+Color : White
+Height : 144.00
+Radius : 12.00
+Volume : 65111.04
+-------------------
+Color : Grey
+Height : 159.00
+Radius : 11.00
+Volume : 60410.46
+-------------------

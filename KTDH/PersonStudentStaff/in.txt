@@ -1,0 +1,77 @@
+5 9
+-----------------
+Philip Smith
+PennsylvaniaRhode Island
+Health Professions
+4
+131000
+-----------------
+Rick Williams
+Wisconsin
+Visual and Performing Arts
+3
+100000
+-----------------
+Benjamin Erickson
+New Mexico
+Engineering
+1
+110000
+-----------------
+Claude Anderson
+Delaware
+Business
+1
+135000
+-----------------
+Samuel Matthews
+IllinoisIndiana
+Health Professions
+1
+109000
+-----------------
+Ramon Wheeler
+Iowa
+Harvard
+122000
+-----------------
+Dan Flores
+North Carolina
+Harvard
+187000
+-----------------
+Dan Flores
+Maryland
+Harvard
+192000
+-----------------
+Samuel Matthews
+Georgia
+Harvard
+104000
+-----------------
+Aidan Simmons
+IllinoisIndiana
+Stanford
+198000
+-----------------
+Liam Smith
+New York
+Harvard
+178000
+-----------------
+Charlie Burns
+North Dakota
+Harvard
+194000
+-----------------
+Conner Martin
+Massachusetts
+Stanford
+139000
+-----------------
+Clark Green
+Connecticut
+Harvard
+156000
+-----------------

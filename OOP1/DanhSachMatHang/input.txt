@@ -1,0 +1,25 @@
+6
+Ca phe
+Thung
+388000
+492000
+Dep
+Thung
+376000
+495000
+Giay Nguoi Lon
+Cai
+389000
+580000
+Giay Nguoi Lon
+Thung
+383000
+503000
+Dep
+Thung
+484000
+647000
+Vay Nu
+Cai
+366000
+516000

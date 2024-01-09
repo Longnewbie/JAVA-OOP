@@ -1,0 +1,31 @@
+6
+trAN Phuong HaI
+17/4/2004
+Ha Noi
+DTVT1
+2.50
+trAN Phuong TuaN
+28/1/2004
+Ha Nam
+DTVT1
+2.50
+Nguyen AnH MaNH
+11/3/2004
+Ha Noi
+CNTT1
+2.70
+pham duC TuaN
+21/5/2004
+Ha Noi
+DTVT1
+2.50
+trAN VAn LoNG
+24/6/2004
+Ha Noi
+CNTT1
+2.80
+Luong Ngoc LoNG
+12/11/2004
+Nam Dinh
+CNTT2
+3.05

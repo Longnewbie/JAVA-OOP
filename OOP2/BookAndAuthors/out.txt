@@ -1,0 +1,52 @@
+-----------------------
+Book information :
+Name : A Brief History of Time
+Price : 700000
+Quantity : 2137
+Author information :
+#1
+Name : Andrew Neiman
+Email : Andrew Neiman.author@gmail.com
+Gender : M
+-----------------------
+Book information :
+Name : Don Quixote
+Price : 500000
+Quantity : 2002
+Author information :
+#1
+Name : Thomas Che
+Email : Thomas Che.author@gmail.com
+Gender : M
+#2
+Name : Lucas
+Email : Lucas.author@gmail.com
+Gender : M
+#3
+Name : Happer Lee
+Email : Happer Lee.author@gmail.com
+Gender : M
+-----------------------
+Book information :
+Name : One Hundred Years of Solitude
+Price : 700000
+Quantity : 1920
+Author information :
+#1
+Name : Feyman
+Email : Feyman.author@gmail.com
+Gender : M
+#2
+Name : Tom Cruise
+Email : Tom Cruise.author@gmail.com
+Gender : M
+-----------------------
+Book information :
+Name : The Great Gatsby
+Price : 600000
+Quantity : 1588
+Author information :
+#1
+Name : Kirk Wise
+Email : Kirk Wise.author@gmail.com
+Gender : M

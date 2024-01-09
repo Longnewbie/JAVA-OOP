@@ -1,0 +1,55 @@
+9
+GV1
+Nguyen duC TuaN
+4/6/1977
+Thai Binh
+CNTT
+12000000
+SV2
+Luong VAn HaI
+1/6/2004
+Thai Binh
+CNTT2
+2.50
+SV3
+Nguyen AnH MaNH
+14/2/2004
+Thai Binh
+CNTT2
+2.50
+GV4
+Nguyen AnH HaI
+20/3/1974
+Ha Nam
+KT
+20000000
+SV5
+pham AnH MaNH
+8/5/2004
+Ha Nam
+CNTT1
+2.70
+SV6
+pham Phuong MaNH
+18/7/2004
+Ha Noi
+CNTT2
+2.50
+GV7
+trAN Phuong LoNG
+6/2/1979
+Ha Noi
+ATTT
+20000000
+SV8
+Nguyen VAn HaI
+25/8/2004
+Nam Dinh
+CNTT2
+2.70
+SV9
+Luong Ngoc HaI
+16/11/2004
+Ha Noi
+CNTT1
+3.20

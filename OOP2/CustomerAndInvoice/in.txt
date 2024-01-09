@@ -1,0 +1,32 @@
+5
+--------------------
+Customer ID : 100
+Full Name : Wayne Rooney
+Discount : 6
+Invoice ID : 1355
+Amount : 4472.00 $
+--------------------
+Customer ID : 101
+Full Name : Peter Cech
+Discount : 7
+Invoice ID : 1525
+Amount : 4690.00 $
+--------------------
+Customer ID : 102
+Full Name : Andrew Tate
+Discount : 16
+Invoice ID : 1607
+Amount : 722.00 $
+--------------------
+Customer ID : 103
+Full Name : Ryan Giggs
+Discount : 16
+Invoice ID : 1714
+Amount : 4524.00 $
+--------------------
+Customer ID : 104
+Full Name : Thomas Tuchel
+Discount : 4
+Invoice ID : 1280
+Amount : 805.00 $
+--------------------

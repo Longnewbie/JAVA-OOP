@@ -1,0 +1,110 @@
+#1
+ARS
+Arsenal
+29 43 72
+------------------
+#2
+MC
+Manchester City
+28 45 64
+------------------
+#3
+NEW
+Newcastle
+27 22 50
+------------------
+#4
+TOT
+Tottenham
+29 12 50
+------------------
+#5
+MU
+Manchester United
+27 4 50
+------------------
+#6
+BRI
+Brighton
+27 17 46
+------------------
+#7
+ASL
+Aston Villa
+29 -1 44
+------------------
+#8
+LIV
+Liverpool
+28 15 43
+------------------
+#9
+BREN
+Brentford
+28 9 43
+------------------
+#10
+FUL
+Fullham
+28 0 39
+------------------
+#11
+CHE
+Chelsea
+29 -1 39
+------------------
+#12
+CRY
+Crystal Palace
+29 -15 30
+------------------
+#13
+LEED
+Leeds United
+29 -11 29
+------------------
+#14
+WOL
+Wolves
+29 -19 28
+------------------
+#15
+WEST
+West Ham
+27 -9 27
+------------------
+#16
+EVE
+Everton
+29 -18 27
+------------------
+#17
+FOR
+Forest
+29 -28 27
+------------------
+#18
+BOU
+Bournemouth
+29 -30 27
+------------------
+#19
+LEI
+Leicester
+29 -11 25
+------------------
+#20
+SOU
+Southampton
+29 -24 23
+------------------
+Arsenal 1 - 0 Chelsea
+Manchester City 0 - 2 Crystal Palace
+Newcastle 0 - 3 Leeds United
+Tottenham 4 - 4 Wolves
+Manchester United 3 - 3 West Ham
+Brighton 4 - 4 Everton
+Aston Villa 2 - 1 Forest
+Liverpool 3 - 1 Bournemouth
+Brentford 2 - 3 Leicester
+Fullham 2 - 2 Southampton

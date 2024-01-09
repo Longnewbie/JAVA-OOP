@@ -1,0 +1,21 @@
+5
+Hoang Van Long
+CNTT2
+26/7/2000
+0.20
+Tran Xuan Loc
+CNTT1
+3/1/1999
+2.40
+Nguyen Van Manh
+CNTT3
+18/11/2000
+3.30
+Ho Sy Kien
+CNTT3
+4/6/2000
+1.50
+Le Van Manh
+CNTT1
+13/3/2002
+3.10

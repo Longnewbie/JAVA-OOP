@@ -1,0 +1,43 @@
+4
+-----------------------
+A Brief History of Time
+700000
+2137
+1
+Andrew Neiman
+Andrew Neiman.author@gmail.com
+M
+-----------------------
+Don Quixote
+500000
+2002
+3
+Thomas Che
+Thomas Che.author@gmail.com
+M
+Lucas
+Lucas.author@gmail.com
+M
+Happer Lee
+Happer Lee.author@gmail.com
+M
+-----------------------
+One Hundred Years of Solitude
+700000
+1920
+2
+Feyman
+Feyman.author@gmail.com
+M
+Tom Cruise
+Tom Cruise.author@gmail.com
+M
+-----------------------
+The Great Gatsby
+600000
+1588
+1
+Kirk Wise
+Kirk Wise.author@gmail.com
+M
+-----------------------

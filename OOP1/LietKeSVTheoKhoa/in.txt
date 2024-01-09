@@ -1,0 +1,20 @@
+4
+20132238
+hoang dinh NAm
+CNTT1
+namhd@gmail.com
+20142231
+PhAM nGoc     tHuan
+HTTT2
+thuanpn@gmail.com 
+20148971
+Nguyen duc XUAN
+CNTT1
+xuannd@gmail.com 
+20132038
+PhAM vAn Hung
+CNTT2
+hungpv@gmail.com
+2
+2013
+2014

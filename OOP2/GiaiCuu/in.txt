@@ -1,0 +1,10 @@
+POWER : 100
+BLOOD : 100
+ALIVE
+6
+witch 77
+mushroom
+pea
+pea
+soldier 164
+soldier 137

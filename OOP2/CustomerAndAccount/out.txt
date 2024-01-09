@@ -1,0 +1,12 @@
+transaction successful
+transaction successful
+transaction successful
+transaction successful
+transaction successful
+transaction successful
+-------------------
+Customer ID : 28
+Full Name : Elon Musk
+Gender : M
+Account ID : 886123
+Balance : 71362.00 $

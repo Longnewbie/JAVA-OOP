@@ -1,0 +1,7 @@
+0001 Nguyen Anh Manh 27/08/2004 Nam Dinh CNTT2 2.70
+0002 Pham Phuong Tuan 21/09/2004 Nam Dinh CNTT1 2.70
+0003 Vu Ngoc Nam 07/09/2004 Nam Dinh CNTT2 3.05
+0004 Vu Anh Long 17/12/2004 Ha Noi CNTT1 2.80
+0005 Nguyen Phuong Nam 23/06/2004 Ha Nam HTTT3 2.80
+0006 Luong Anh Nam 16/01/2004 Thai Binh DTVT1 2.80
+0007 Nguyen Phuong Hai 14/01/2004 Nam Dinh DTVT1 3.05

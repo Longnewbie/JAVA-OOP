@@ -1,0 +1,10 @@
+SV3 Charlie Burns IT2 2.50
+------------------------
+SV5 Mark Ellis IT4 1.92
+------------------------
+SV4 Roberto Ellis IT4 1.50
+------------------------
+SV1 Cedric Newton IT1 0.89
+------------------------
+SV2 Cedric Patterson IT2 0.88
+------------------------

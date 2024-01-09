@@ -1,0 +1,27 @@
+Book Details :
+Song
+800000
+5000
+Author Information :
+Xuan Quynh
+xuanquynh@gmail.com
+M
+--------------------
+Book Details :
+Ha Do
+400000
+6000
+Author Information :
+Nguyen Nhat Anh
+nhatanh@gmail.com
+M
+--------------------
+Book Details :
+To Kill a Mockingbird
+100000
+15000
+Author Information :
+Harper Lee
+lee@gmail.com
+F
+--------------------

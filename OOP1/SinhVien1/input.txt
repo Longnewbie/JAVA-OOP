@@ -1,0 +1,21 @@
+5
+Nguyen Van A
+CNTT2
+19/11/2000
+3.60
+Nguyen Van B
+CNTT1
+19/3/1999
+0.10
+Nguyen Van C
+DTVT2
+21/11/2001
+1.30
+Nguyen Van D
+DTVT2
+20/1/2000
+2.70
+Nguyen Van E
+DTVT2
+17/5/2003
+0.30
